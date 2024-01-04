@@ -6,5 +6,5 @@ A popup window will explaine features of the app.
 
 The user can use key inputs or click on the buttons on the GUI to go forward or backwards through the card deck, or flip the card to reveal the other side. Currently, the cards have some German language vocab and the English language
 translations
-![flipped](https://github.com/Johnsonisaacn/Python_flashcard_app/assets/114550967/20d7e346-eb0d-429e-870e-3ab179030c8c)
+
 Future plans involve adding ability to add and remove cards, change style, and present several decks for the user to choose from.
